@@ -1,0 +1,12 @@
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\obj\Debug\net8.0\StateClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\obj\Debug\net8.0\StateClass.AssemblyInfoInputs.cache
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\obj\Debug\net8.0\StateClass.AssemblyInfo.cs
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\obj\Debug\net8.0\StateClass.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\obj\Debug\net8.0\StateClass.csproj.AssemblyReference.cache
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\bin\Debug\net8.0\StateClass.deps.json
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\bin\Debug\net8.0\StateClass.dll
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\bin\Debug\net8.0\StateClass.pdb
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\obj\Debug\net8.0\StateClass.dll
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\obj\Debug\net8.0\refint\StateClass.dll
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\obj\Debug\net8.0\StateClass.pdb
+C:\Users\aaron\Downloads\Scc\Code\StateClass\StateClass\obj\Debug\net8.0\ref\StateClass.dll
